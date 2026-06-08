@@ -1,3 +1,5 @@
+package IntegradorDos;
+
 public class EstudiantePreGrado extends Estudiante {
 
     private double promedioPonderado;

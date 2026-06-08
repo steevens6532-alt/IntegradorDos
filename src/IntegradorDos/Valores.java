@@ -1,3 +1,5 @@
+package IntegradorDos;
+
 public interface Valores {
     double PENSION_ESTATAL       = 560;
     double PENSION_PARTICULAR    = 650;

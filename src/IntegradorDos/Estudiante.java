@@ -1,3 +1,5 @@
+package IntegradorDos;
+
 public abstract class Estudiante implements Valores {
 
     private String codigo;

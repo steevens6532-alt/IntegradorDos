@@ -1,3 +1,5 @@
+package IntegradorDos;
+
 public class EstudiantePostGrado extends Estudiante implements Descuentos {
 
     private String gradoAcademico; // "bachiller" o "titulado"
